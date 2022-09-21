@@ -15,7 +15,7 @@
 ## Table of Content
 - [Project Overview](#Project-Overview)
 - [Motivation](#Motivation)
-  - [Aim & Objective](##Aim---Objective)
+  - [Aim & Objective](#Aim--Objective)
 - [Contents](#Contents)
 - [Technologies Used](#Technologies-Used)
 - [Installation](#Installation)
