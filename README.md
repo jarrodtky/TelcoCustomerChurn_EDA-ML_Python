@@ -25,7 +25,7 @@
 
 
 ## Project Overview
-- Use predictive analytics to ().
+- Use predictive analytics to identify which telecom customer will churn or not based on features like Gender, SeniorCitizen, MultipleLines, etc.
 - The dataset can be obtained [here from Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 - [Python](https://www.python.org/) is used to assist this project with Data Mining by extracting important insights using: 
   - [Basic Statistics](https://en.wikipedia.org/wiki/Statistics)
