@@ -1,3 +1,5 @@
+**CHANGE THE IPYNB NAMES**
+
 <p align="center">
     <img width="800" src="https://editor.analyticsvidhya.com/uploads/94357telecom%20churn.png">
 </p>
@@ -37,30 +39,37 @@
     - [Random Forest Classifier (Bagging Ensemble Model)](https://en.wikipedia.org/wiki/Random_forest)
     - [XGBoost Classifier (Gradient Ensemble Model)](https://en.wikipedia.org/wiki/XGBoost)
 
-===============================
+
 
 ## Motivation
-- In the healthcare industry, understanding what factors or indicators affect a disease is an essential part of the decision-making and problem-solving process. 
-- People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model or statistical analyses can be of great help.
-- These indicators allow decision-makers to identify any potential ways to reduce risk factors of future health and increase the likelihood of disease prevention effectively (Santos et al., 2019). 
+- The telecom industry will be influenced by the broad availability of offers and incentives from different service providers. 
+- Because of the variety of types of churn and the different causes for individual turnover, internal teams would fail to comprehend the scarcity of consumer attrition. 
+- As a result, research has shown that getting new consumers is costly, but losing current customers is much more costly since existing paying customers are often repeated customers who, if happy, would buy and use the goods or services again (Ranabhat, 2018). 
+- Customer turnover data is constantly changing as many organisations build new data plans and packages to obtain a competitive edge, and enterprises must be careful in monitoring customer behaviour to minimise customer churn by undertaking predictive modelling such as churn analysis (Khodabandehlou & Rahman, 2017).
 
 
 
 ### Aim & Objective
 - Aim: 
-  - To improve the process of analyzing patients’ heart disease in the healthcare industry to allow earlier detection and avoidance of heart disease and morbidity. 
+  - To improve the process of analysing customer churn in the telecommunications industry so that it can focus on maintaining long-term relationships with loyal customers while also developing an effective prediction model that divides telecom customers into churners and non-churners. 
 - Objective: 
-  - To create and select the best Machine Learning model that classifies patients into those who will develop heart disease in the future and those who will not based on the importance of data variables and models evaluation and assessment (i.e. Accuracy, Recall, AUC, etc.). 
-  - The insights gained by analyzing the feature importance of each data variable to the target data will aid in establishing which factor or indicator is critical in causing heart disease.
+  - To create and select the best Machine Learning model that classifies telecom customers as actual churners or not based on the importance of data variables and models evaluation and assessment (i.e. Accuracy, Recall, AUC, etc.).
+  - The insights and variables gained may be utilised to make better choices and adjustments, such as adding or upgrading services to decrease churn and measuring the success of marketing and other customer acquisition methods and techniques.
 
 
 
 ## Contents
-**(1) HeartDisease_Dataset.csv**
-  - Heart Disease dataset file in CSV format.
+**(1) TelcoCustomerChurn_Dataset.csv**
+  - Telecom Customer Churn dataset file in CSV format.
 
-**(2) HeartDisease_EDA-ML_Python.ipynb**
-  - The main notebook containing the Python implementation codes (along with explanations) for the project.
+**(2) TelcoCustomerChurn_EDA-ML_Python (3 LRs).ipynb**
+  - The notebook containing the Python implementation codes (along with explanations) using 3 Logistic Regressions with different splits for the project.
+
+**(3) TelcoCustomerChurn_EDA-ML_Python (RF & LR).ipynb**
+  - The notebook containing the Python implementation codes (along with explanations) using Random Forest and Logistic Regression for the project.
+
+**(4) TelcoCustomerChurn_EDA-ML_Python (LR, SVM, XGBoost).ipynb**
+  - The notebook containing the Python implementation codes (along with explanations) using Logistic Regression, Support-Vector Machine (SVM), and XGBoost for the project.
 
 
 
