@@ -69,9 +69,6 @@
     **(2.2) TelcoCustomerChurn_EDA-ML_Python (RF & LR).ipynb**
     - The notebook containing the Python implementation codes (along with explanations) using Random Forest and Logistic Regression for the project.
 
-    **(2.3) TelcoCustomerChurn_EDA-ML_Python (LR, SVM, XGBoost).ipynb**
-    - The notebook containing the Python implementation codes (along with explanations) using Logistic Regression, Support-Vector Machine (SVM), and XGBoost for the project.
-
 
 
 ## Technologies Used
