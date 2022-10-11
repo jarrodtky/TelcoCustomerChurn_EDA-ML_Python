@@ -8,7 +8,7 @@
 
 **Topic:** Predictive Churn Analysis for Telecom Company
 
-**Keywords:** Data Science, Telco Customer Churn, Exploratory Data Analysis (EDA), Machine Learning, Predictive Analysis, Classification, Python
+**Keywords:** Data Science, Telco Customer Churn, Exploratory Data Analysis (EDA), Machine Learning, Predictive Churn Analysis, Classification, Python
 
 
 
