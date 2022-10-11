@@ -62,14 +62,17 @@
 **(1) TelcoCustomerChurn_Dataset.csv**
   - Telecom Customer Churn dataset file in CSV format.
 
-**(2) TelcoCustomerChurn_EDA-ML_Python (3 LRs).ipynb**
-  - The notebook containing the Python implementation codes (along with explanations) using 3 Logistic Regressions with different splits for the project.
+**(2) TelcoCustomerChurn_EDA-ML_Python Folder**
+  - Contains 3 Python notebooks with implementation codes and explanations for the project.
 
-**(3) TelcoCustomerChurn_EDA-ML_Python (RF & LR).ipynb**
-  - The notebook containing the Python implementation codes (along with explanations) using Random Forest and Logistic Regression for the project.
+    **(2.1) TelcoCustomerChurn_EDA-ML_Python (3 LRs).ipynb**
+    - The notebook containing the Python implementation codes (along with explanations) using 3 Logistic Regressions with different splits for the project.
 
-**(4) TelcoCustomerChurn_EDA-ML_Python (LR, SVM, XGBoost).ipynb**
-  - The notebook containing the Python implementation codes (along with explanations) using Logistic Regression, Support-Vector Machine (SVM), and XGBoost for the project.
+    **(2.2) TelcoCustomerChurn_EDA-ML_Python (RF & LR).ipynb**
+    - The notebook containing the Python implementation codes (along with explanations) using Random Forest and Logistic Regression for the project.
+
+    **(2.3) TelcoCustomerChurn_EDA-ML_Python (LR, SVM, XGBoost).ipynb**
+    - The notebook containing the Python implementation codes (along with explanations) using Logistic Regression, Support-Vector Machine (SVM), and XGBoost for the project.
 
 
 
