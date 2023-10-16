@@ -4,7 +4,7 @@
 
 # TelcoCustomerChurn_EDA-ML_Python
 
-**Course:** Programming for Data Science
+**Project:** Programming for Data Science
 
 **Topic:** Predictive Churn Analysis for Telecom Company
 
@@ -18,7 +18,6 @@
   - [Aim & Objective](#Aim--Objective)
 - [Contents](#Contents)
 - [Technologies Used](#Technologies-Used)
-- [Installation](#Installation)
 - [License](#License)
 - [Credits](#Credits)
 
@@ -83,15 +82,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 <p </p>
-
-
-
-## Installation
-- Clone this repository and unzip it / Download the ipynb file only.
-- After downloading, open the ipynb file using any tool (PyCharm, VSCode, Jupyter Lab/Notebook, etc.).
-- Make sure the dataset (.csv file) is in the same location as the ipynb file.
-- Install the required library packages (Run !pip install if the library packages fail).
-- Run the code and view the results.
 
 
 
